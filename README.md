@@ -32,6 +32,7 @@
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin)
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=flat&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
@@ -42,5 +43,6 @@
 ### Languages that I will learn in the future
 
 ![Swift](https://img.shields.io/badge/-Swift-555555?style=flat&logo=swift)
+![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
 ![Objective-C](https://img.shields.io/badge/-Objective%20C-555555?style=flat)
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
