@@ -1,10 +1,10 @@
+<p style="text-align:right">EN | <a href="https://github.com/luis-saes/luis-saes/blob/main/README-ptbr.md">PT</a></p>
+
 ![My Logo](https://i.imgur.com/y1SyDdA.png)
 
 <a href="https://www.linkedin.com/in/luis-saes/">
   <img src="https://img.shields.io/badge/Luis-Saes-blue?style=flat-square&logo=linkedin&labelColor=blue">
 </a>
-
-<p style="text-align:right">EN | <a href="https://github.com/luis-saes/luis-saes/blob/main/README-ptbr.md">PT</a></p>
 
 <a href="https://medium.com/@luisaes">
   <img src="https://img.shields.io/badge/-@luisaes-000?style=flat&labelColor=000000&logo=Medium">
