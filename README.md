@@ -40,7 +40,7 @@
 ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
 
 
-### Languages that I will learn in the future
+### Languages/frameworks that I will learn in the future
 
 ![Swift](https://img.shields.io/badge/-Swift-555555?style=flat&logo=swift)
 ![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
