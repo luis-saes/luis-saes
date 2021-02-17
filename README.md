@@ -26,7 +26,7 @@
 * ⚡ Good expertise in object-oriented programming languages
 
 ---
-### Languages that I'm currently studying
+### Languages/frameworks that I'm currently studying
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
