@@ -1,4 +1,6 @@
-<p style="text-align:right">EN | <a href="https://github.com/luis-saes/luis-saes/blob/main/README-ptbr.md">PT</a></p>
+<p>EN | 
+  <a href="https://github.com/luis-saes/luis-saes/blob/main/README-ptbr.md">PT</a>
+</p>
 
 ![My Logo](https://i.imgur.com/y1SyDdA.png)
 
