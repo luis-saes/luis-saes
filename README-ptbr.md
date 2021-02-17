@@ -26,7 +26,7 @@
 * ⚡ Boa experiência com linguagens orientadas à objeto
 
 ---
-### Linguagens que estou estudando:
+### Linguagens/frameworks que estou estudando:
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
