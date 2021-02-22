@@ -43,6 +43,7 @@
 ### Linguagens/frameworks que aprenderei no futuro:
 
 ![Swift](https://img.shields.io/badge/-Swift-555555?style=flat&logo=swift)
+![Dart](https://img.shields.io/badge/-Dart-555555?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
 ![Objective-C](https://img.shields.io/badge/-Objective%20C-555555?style=flat)
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
