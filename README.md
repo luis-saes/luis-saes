@@ -19,7 +19,7 @@
 ---
 
 ### A little bit about myself:
-* 🎓 Undergraduating in Computer Science at UFLA - MG (Brazil)
+* 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
 * 📚 I love to learn and stay up to date on new technologies
 * 💼 Working as a Tester at Global Technologies and a Front-End Developer at Comp Júnior
 * 📱 Learning android programming with Java and Kotlin
