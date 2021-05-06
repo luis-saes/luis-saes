@@ -21,7 +21,7 @@
 ### Um pouquinho sobre mim:
 * 🎓 Graduando em Ciência da Computação pela Universidade Federal de Lavras
 * 📚 Amo aprender novas tecnologias, estar em constante evolução
-* 💼 Trabalhando como Tester na Global Technologies e Desenvolvedor Front-End na Comp Júnior
+* 💼 Trabalhando na Embraer e na Comp Júnior
 * 📱 Aprendendo programação para android com Java e Kotlin 
 * ⚡ Boa experiência com linguagens orientadas à objeto
 
