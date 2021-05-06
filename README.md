@@ -21,7 +21,7 @@
 ### A little bit about myself:
 * 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
 * 📚 I love to learn and stay up to date on new technologies
-* 💼 Working as a Tester at Global Technologies and a Front-End Developer at Comp Júnior
+* 💼 Working at Embraer and Comp Júnior
 * 📱 Learning android programming with Java and Kotlin
 * ⚡ Good expertise in object-oriented programming languages
 
