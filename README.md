@@ -28,23 +28,21 @@
 ---
 ### Languages/frameworks that I'm currently studying
 
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=flat&logo=bootstrap)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
+![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
 
 
 ### Languages/frameworks that I will learn in the future
 
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
-![Swift](https://img.shields.io/badge/-Swift-555555?style=flat&logo=swift)
-![Dart](https://img.shields.io/badge/-Dart-555555?style=flat&logo=dart)
-![GO](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
 ![NestJS](https://img.shields.io/badge/-NestJS-555555?style=flat&logo=nestjs)
+![NextJS](https://img.shields.io/badge/-NextJS-555555?style=flat&logo=next.js)
+![Electron](https://img.shields.io/badge/-Electron-555555?style=flat&logo=electron)
+![Flutter](https://img.shields.io/badge/-Flutter-555555?style=flat&logo=flutter)
+![GO](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
