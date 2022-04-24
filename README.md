@@ -33,6 +33,6 @@
 
 ### Languages/frameworks that I will learn in the future
 
-* Nest.js
+* NestJS
 * Electron
 * GO
