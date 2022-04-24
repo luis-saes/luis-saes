@@ -21,7 +21,7 @@
 ### A little bit about myself:
 * 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
 * 📚 I love to learn and stay up to date on new technologies
-* 🏆 Learning competitive programming trough LeetCode
+* 🏆 Learning competitive programming through LeetCode
 * ⚡ Good expertise in object-oriented programming languages
 
 ---
