@@ -27,16 +27,13 @@
 ---
 ### Linguagens/frameworks que estou estudando:
 
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
-![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
+* Python3
+* JavaScript, Node.js, HTML5, CSS3
+* React
 
 
 ### Linguagens/frameworks que aprenderei no futuro:
 
-![NextJS](https://img.shields.io/badge/-NextJS-555555?style=flat&logo=next.js)
-![Electron](https://img.shields.io/badge/-Electron-555555?style=flat&logo=electron)
-![GO](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
+* Nest.js
+* Electron
+* GO
