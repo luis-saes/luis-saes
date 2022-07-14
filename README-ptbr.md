@@ -34,6 +34,6 @@
 
 ### Linguagens/frameworks que aprenderei no futuro:
 
-* ![NestJS](https://nestjs.com/)
+* NestJS
 * Electron
 * GO
