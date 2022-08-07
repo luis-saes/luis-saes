@@ -5,16 +5,21 @@
 ![My Logo](https://i.imgur.com/y1SyDdA.png)
 
 <a href="https://www.linkedin.com/in/luis-saes/">
-  <img src="https://img.shields.io/badge/Luis-Saes-blue?style=flat-square&logo=linkedin&labelColor=blue">
+  <img src="https://img.shields.io/badge/Luis Saes-blue?style=flat-square&logo=linkedin&labelColor=blue">
 </a>
 
 <a href="https://medium.com/@luisaes">
   <img src="https://img.shields.io/badge/-@luisaes-000?style=flat&labelColor=000000&logo=Medium">
 </a>
 
+<a href="https://luis-saes.github.io/developer-portfolio/">
+  <img src="https://img.shields.io/badge/My%20Developer%20Portfolio-%230096ff">
+</a>
+
+
 ## Olá! Pode me chamar de Luis! 👋
 
-<img alt="GIF Forrest Gump saying hello" src="http://www.reactiongifs.com/r/fgwv.gif" width = 350/>
+<img alt="Forrest Gump GIF waving his hand" src="http://www.reactiongifs.com/r/fgwv.gif" width=350/>
 
 ---
 
@@ -25,15 +30,14 @@
 * ⚡ Boa experiência com linguagens orientadas à objeto
 
 ---
-### Linguagens/frameworks que estou estudando:
+### Tecnologias que estou estudando:
 
 * Python3
-* JavaScript, Node.js, HTML5, CSS3
-* React
+* JavaScript, HTML5, CSS3
+* React, TypeScript
+* NextJS
 
+### Tecnologias que aprenderei no futuro:
 
-### Linguagens/frameworks que aprenderei no futuro:
-
-* NestJS
 * Electron
 * GO
