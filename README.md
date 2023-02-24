@@ -23,20 +23,20 @@
 ---
 
 ### A little bit about myself:
-* 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
+* 🌐 Focused on mastering Web as a Full-Stack Developer
 * 📚 I love to learn and stay up to date on new technologies
-* 🏆 Learning competitive programming through LeetCode
-* ⚡ Good expertise in object-oriented programming languages
+* ⚡ Good expertise in functional and object-oriented programming languages
+* 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
 
 ---
 ### Technologies that I'm currently studying
 
-* Python3
+* C#, Angular, .NET Core
+* NextJS, React, TypeScript
 * JavaScript, HTML5, CSS3
-* React, TypeScript
-* NextJS
+* AWS, Azure
 
 ### Technologies that I will learn in the future
 
-* Electron
+* Rust
 * GO
