@@ -24,20 +24,20 @@
 ---
 
 ### Um pouquinho sobre mim:
+* 🌐 Focado em dominar tecnologias Web como um Desenvolvedor Full-Stack 
+* 📚 Amo aprender novas tecnologias, estar constantemente atualizado
+* ⚡ Boa experiência com linguagens funcionais e orientadas à objeto
 * 🎓 Graduando em Ciência da Computação pela Universidade Federal de Lavras
-* 📚 Amo aprender novas tecnologias, estar em constante evolução
-* 🏆 Aprendendo programação competitiva através do LeetCode 
-* ⚡ Boa experiência com linguagens orientadas à objeto
 
 ---
 ### Tecnologias que estou estudando:
 
-* Python3
+* C#, Angular, .NET Core
+* NextJS, React, TypeScript
 * JavaScript, HTML5, CSS3
-* React, TypeScript
-* NextJS
+* AWS, Azure
 
 ### Tecnologias que aprenderei no futuro:
 
-* Electron
+* Rust
 * GO
