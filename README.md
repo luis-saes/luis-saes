@@ -23,17 +23,17 @@
 ---
 
 ### A little bit about myself:
-* 🌐 Focused on mastering Web as a Full-Stack Developer
+* 🌐 Focused on mastering Web as a Full-Stack Software Engineer.
 * 📚 I love to learn and stay up to date on new technologies
 * ⚡ Good expertise in functional and object-oriented programming languages
-* 🎓 Undergraduate in Computer Science at UFLA - MG (Brazil)
+* 🎓 Graduated in Computer Science at UFLA - MG (Brazil)
 
 ---
 ### Technologies that I'm currently studying
 
 * C#, Angular, .NET Core
 * NextJS, React, TypeScript
-* JavaScript, HTML5, CSS3
+* JavaScript, NodeJS, HTML5, CSS3
 * AWS, Azure
 
 ### Technologies that I will learn in the future
