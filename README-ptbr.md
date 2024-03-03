@@ -27,14 +27,14 @@
 * 🌐 Focado em dominar tecnologias Web como um Desenvolvedor Full-Stack 
 * 📚 Amo aprender novas tecnologias, estar constantemente atualizado
 * ⚡ Boa experiência com linguagens funcionais e orientadas à objeto
-* 🎓 Graduando em Ciência da Computação pela Universidade Federal de Lavras
+* 🎓 Graduado em Ciência da Computação pela Universidade Federal de Lavras
 
 ---
 ### Tecnologias que estou estudando:
 
 * C#, Angular, .NET Core
 * NextJS, React, TypeScript
-* JavaScript, HTML5, CSS3
+* JavaScript, NodeJS, HTML5, CSS3
 * AWS, Azure
 
 ### Tecnologias que aprenderei no futuro:
