@@ -26,17 +26,4 @@
 * 🌐 Focused on mastering Web as a Full-Stack Software Engineer
 * 📚 I love to learn and stay up to date on new technologies
 * ⚡ Good expertise in functional and object-oriented programming languages
-* 🎓 Currently pursuing my Master's degree in Computer Science, specializing in Software Engineering
 * 🎓 Graduated in Computer Science at UFLA - MG (Brazil)
-
----
-### Technologies that I'm currently studying
-
-* NextJS, React, Angular, TypeScript, HTML5, CSS3
-* C#, .NET Core, NestJS, NodeJS
-* AWS, Azure, Google Cloud
-
-### Technologies that I will learn in the future
-
-* Rust
-* GO
