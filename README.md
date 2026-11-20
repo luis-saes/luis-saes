@@ -1,29 +1,28 @@
-<p>EN | 
-  <a href="https://github.com/luis-saes/luis-saes/blob/main/README-ptbr.md">PT</a>
-</p>
+# Luis Henrique Saes Scandelai
 
-![My Logo](https://i.imgur.com/y1SyDdA.png)
+**Data engineer focused on knowledge graphs, retrieval and AI evaluation.** I care about the layer between data and AI systems: how information is stored, found and checked, so that what a system tells you can be trusted.
 
-<a href="https://www.linkedin.com/in/luis-saes/">
-  <img src="https://img.shields.io/badge/Luis Saes-blue?style=flat-square&logo=linkedin&labelColor=blue">
-</a>
+## What I do
 
-<a href="https://medium.com/@luisaes">
-  <img src="https://img.shields.io/badge/-@luisaes-000?style=flat&labelColor=000000&logo=Medium">
-</a>
+- Build and validate data pipelines on graph databases (Neo4j, Cypher).
+- Study how retrieval really works (keyword, vector, hybrid and graph search) and how to tell them apart with evidence.
 
-<a href="https://luis-saes.github.io/developer-portfolio/">
-  <img src="https://img.shields.io/badge/My%20Developer%20Portfolio-%230096ff">
-</a>
+## What I'm working on
 
-## Hello there! Feel free to call me Luis! 👋
+- [**retrieval-eval-lab**](https://github.com/luis-saes/retrieval-eval-lab): when does a knowledge graph beat keyword and vector search on multi-hop questions over FDA device lineage? Work in progress, no results yet.
 
-<img alt="Forrest Gump GIF waving his hand" src="http://www.reactiongifs.com/r/fgwv.gif" width=350/>
+## Background
 
----
+- 5+ years in software, with data engineering on graph databases in production.
+- Computer Science, UFLA. Based in Jaboticabal, Brazil. English and Portuguese.
 
-### A little bit about myself:
-* 🌐 Focused on mastering Web as a Full-Stack Software Engineer
-* 📚 I love to learn and stay up to date on new technologies
-* ⚡ Good expertise in functional and object-oriented programming languages
-* 🎓 Graduated in Computer Science at UFLA - MG (Brazil)
+## Stack
+
+- **Data and graphs:** Neo4j (Cypher, Bloom), PostgreSQL (pgvector), BigQuery, SQL, Airflow / Cloud Composer, graph modelling, pipeline validation
+- **Python:** pandas / Polars, FastAPI, pytest
+- **Cloud and delivery:** GCP (Cloud Run), AWS, Docker, Terraform, CI/CD
+- **Learning in public:** retrieval and evaluation (BM25, embeddings, hybrid search), LLM APIs
+
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/luis-saes/)
